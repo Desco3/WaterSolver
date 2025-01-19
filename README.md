@@ -2,7 +2,7 @@
 A simple Water Board solver. Solves all 40 Water Board layouts in a single water flow, considerably faster than other solvers.
 
 ## Usage
-Download the mod from the [releases page](https://github.com/Desco1/WaterSolver/releases) or build it yourself.\
+Download the mod from the [releases page](https://github.com/Desco3/WaterSolver/releases) or build it yourself.\
 Grab the .jar and put it in your .minecraft/mods folder, as you would with any other mod.\
 It, sadly, requires Essential.
 
